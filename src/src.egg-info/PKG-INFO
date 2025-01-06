@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: src
+Version: 0.0.1
+Summary: A simple python package for movies recommendation.
+Home-page: https://raghava44u.github.io/raghava-portfolio/
+Author: Raghava
+Author-email: raghavadasari@gmail.com
+Requires-Python: ['streamlit']
+Description-Content-Type: text/markdown
+
+Movie Recommendation System

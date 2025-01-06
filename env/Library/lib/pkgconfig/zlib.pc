@@ -1,0 +1,13 @@
+prefix=C:/Users/nares/ML/Projects/env/Library
+exec_prefix=C:/Users/nares/ML/Projects/env/Library
+libdir=C:/Users/nares/ML/Projects/env/Library/lib
+sharedlibdir=C:/Users/nares/ML/Projects/env/Library/lib
+includedir=C:/Users/nares/ML/Projects/env/Library/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.2.13
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}
